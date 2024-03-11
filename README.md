@@ -2,6 +2,10 @@
 
 ## Images
 
+### /all-student Test Results After Optimization
+![](images/all_student_table_after.png)
+![](images/all_student_after.png)
+
 ### /all-student Test Results Before Optimization
 ![](images/all_student_table_before.png)
 ![](images/all_student_before.png)
