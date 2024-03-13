@@ -14,6 +14,9 @@
 #### Before Optimization
 ![](images/all_student_name_table_before.png)
 ![](images/all_student_name_before.png)
+#### After Optimization
+![](images/all_student_name_table_after.png)
+![](images/all_student_name_after.png)
 
 ### /highest-gpa Test Results
 #### Before Optimization
